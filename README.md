@@ -7,3 +7,7 @@ We compare three different agents:
 * Q-Learning
 * Minimax
 * Random
+
+The repository consists of:
+* **ai4_connect_three.ipynb** file where the agents are trained and compared
+* **connect.py**, **utils.py** which hold the API of the board game.
